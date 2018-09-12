@@ -1,5 +1,10 @@
 #!/bin/bash
 
+####################################################################
+#                       Shahlin Ibrahim                            #
+#    NOTE: MAKE SURE TO CHANGE THE LOCATIONS WHEREVER NECESSARY    #
+####################################################################
+
 # Set DBUS_SESSION_BUS_ADDRESS
 source /home/shahlin/.scripts/change_bg/set_dbus_path.sh gnome
 
